@@ -14,5 +14,6 @@
 
 [Data-Exploration-of-Covid-Data-Set](https://github.com/shay-coder/Data-Exploration-of-Covid-Data-Set)
 
+[Data Visulization using Cognos Analytics and Excel Coursera](https://medium.com/@shanzayrajpoot/data-analytics-using-cognos-analytics-and-excel-coursera-project-cd10f89f338a)
 
 
